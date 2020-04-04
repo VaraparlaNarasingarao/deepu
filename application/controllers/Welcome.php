@@ -26,4 +26,12 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
+	public function pratap_1()
+	{
+		$this->load->view('welcome_message');
+	}
+	public function pratap_2()
+	{
+		$this->load->view('welcome_message');
+	}
 }
